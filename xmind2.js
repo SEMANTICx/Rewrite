@@ -7,7 +7,7 @@
 
 
 [rewrite_local]
-^https?://www.xmind.cn/_res/devices url script-response-body https://raw.githubusercontent.com/SEMANTICx/Rewrite/main/Xmind2.js
+^https?://www.xmind.cn/_res/devices url script-response-body https://raw.githubusercontent.com/SEMANTICx/Rewrite/main/xmind2.js
 
 [mitm]
 hostname = www.xmind.cn
