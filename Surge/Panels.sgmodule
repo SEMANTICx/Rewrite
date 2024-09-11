@@ -3,7 +3,7 @@
 
 
 [Map Local]
-https://us-central1-snikt-ccad1.cloudfunctions.net/validateReceipt data-type=file data="https://raw.githubusercontent.com/SEMANTICx/Rewrite/main/Panels.json" status-code=200
+https://us-central1-snikt-ccad1.cloudfunctions.net/trackReceipt data-type=file data="https://raw.githubusercontent.com/SEMANTICx/Rewrite/main/Panels.json" status-code=200
 
 [MITM]
 
